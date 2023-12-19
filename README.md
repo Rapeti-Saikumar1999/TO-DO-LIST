@@ -1,2 +1,2 @@
-# PROJECT_NAME: TO-DO-LIST
-# SKILLS REQUIRED TO BUILD THIS PROJECT IS HTML,CSS,JS
+# Project_name: TO-DO-LIST
+Skills required to build this project is HTML,CSS,JS.
